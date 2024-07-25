@@ -6,7 +6,7 @@ Id:CT08DS4707<br>
 Domain: Frontend Web Development<br>
 Duration: July to august 2024<br>
 
-<b>Overview of the Project</b><br>
+<h1>Overview of the Project</h1><br>
 <h2>Objective</h2><br>
 A to-do list project helps users manage tasks efficiently, incorporating a user-friendly interface, robust backend, and various features.
 
