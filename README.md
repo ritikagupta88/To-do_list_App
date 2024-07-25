@@ -1,3 +1,1 @@
-# To-do_list_App
-<br>
-CODTECH-Task1
+# To-do_list_App <br>CODTECH Task1
